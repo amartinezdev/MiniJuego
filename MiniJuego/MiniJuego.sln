@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VegaJuego", "VegaJuego\VegaJuego.csproj", "{0B6F2F9B-E517-4AD5-86A1-140538BDB1F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VegaJuego", "VegaJuego\VegaJuego.csproj", "{45C283BC-B904-4915-90F3-6BC339A0C74C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0B6F2F9B-E517-4AD5-86A1-140538BDB1F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0B6F2F9B-E517-4AD5-86A1-140538BDB1F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0B6F2F9B-E517-4AD5-86A1-140538BDB1F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0B6F2F9B-E517-4AD5-86A1-140538BDB1F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45C283BC-B904-4915-90F3-6BC339A0C74C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C283BC-B904-4915-90F3-6BC339A0C74C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C283BC-B904-4915-90F3-6BC339A0C74C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C283BC-B904-4915-90F3-6BC339A0C74C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D3D9559E-0BE7-46E9-A838-7C93D401728A}
+		SolutionGuid = {3678A8FA-C91A-4431-9B16-AA1CF118D8B2}
 	EndGlobalSection
 EndGlobal

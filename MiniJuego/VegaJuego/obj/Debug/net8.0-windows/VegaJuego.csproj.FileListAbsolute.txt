@@ -1,3 +1,21 @@
+D:\Entornos de Desarrollo\2º Trimestre\GitHub\MiniJuego\MiniJuego\VegaJuego\bin\Debug\net8.0-windows\VegaJuego.exe
+D:\Entornos de Desarrollo\2º Trimestre\GitHub\MiniJuego\MiniJuego\VegaJuego\bin\Debug\net8.0-windows\VegaJuego.deps.json
+D:\Entornos de Desarrollo\2º Trimestre\GitHub\MiniJuego\MiniJuego\VegaJuego\bin\Debug\net8.0-windows\VegaJuego.runtimeconfig.json
+D:\Entornos de Desarrollo\2º Trimestre\GitHub\MiniJuego\MiniJuego\VegaJuego\bin\Debug\net8.0-windows\VegaJuego.dll
+D:\Entornos de Desarrollo\2º Trimestre\GitHub\MiniJuego\MiniJuego\VegaJuego\bin\Debug\net8.0-windows\VegaJuego.pdb
+D:\Entornos de Desarrollo\2º Trimestre\GitHub\MiniJuego\MiniJuego\VegaJuego\obj\Debug\net8.0-windows\VegaJuego.csproj.GenerateResource.cache
+D:\Entornos de Desarrollo\2º Trimestre\GitHub\MiniJuego\MiniJuego\VegaJuego\obj\Debug\net8.0-windows\VegaJuego.GeneratedMSBuildEditorConfig.editorconfig
+D:\Entornos de Desarrollo\2º Trimestre\GitHub\MiniJuego\MiniJuego\VegaJuego\obj\Debug\net8.0-windows\VegaJuego.AssemblyInfoInputs.cache
+D:\Entornos de Desarrollo\2º Trimestre\GitHub\MiniJuego\MiniJuego\VegaJuego\obj\Debug\net8.0-windows\VegaJuego.AssemblyInfo.cs
+D:\Entornos de Desarrollo\2º Trimestre\GitHub\MiniJuego\MiniJuego\VegaJuego\obj\Debug\net8.0-windows\VegaJuego.csproj.CoreCompileInputs.cache
+D:\Entornos de Desarrollo\2º Trimestre\GitHub\MiniJuego\MiniJuego\VegaJuego\obj\Debug\net8.0-windows\VegaJuego.sourcelink.json
+D:\Entornos de Desarrollo\2º Trimestre\GitHub\MiniJuego\MiniJuego\VegaJuego\obj\Debug\net8.0-windows\VegaJuego.dll
+D:\Entornos de Desarrollo\2º Trimestre\GitHub\MiniJuego\MiniJuego\VegaJuego\obj\Debug\net8.0-windows\refint\VegaJuego.dll
+D:\Entornos de Desarrollo\2º Trimestre\GitHub\MiniJuego\MiniJuego\VegaJuego\obj\Debug\net8.0-windows\VegaJuego.pdb
+D:\Entornos de Desarrollo\2º Trimestre\GitHub\MiniJuego\MiniJuego\VegaJuego\obj\Debug\net8.0-windows\VegaJuego.genruntimeconfig.cache
+D:\Entornos de Desarrollo\2º Trimestre\GitHub\MiniJuego\MiniJuego\VegaJuego\obj\Debug\net8.0-windows\ref\VegaJuego.dll
+D:\Entornos de Desarrollo\2º Trimestre\GitHub\MiniJuego\MiniJuego\VegaJuego\obj\Debug\net8.0-windows\VegaJuego.Level1.resources
+D:\Entornos de Desarrollo\2º Trimestre\GitHub\MiniJuego\MiniJuego\VegaJuego\obj\Debug\net8.0-windows\VegaJuego.Properties.Resources.resources
 C:\Users\ÁlvaroM\Desktop\MiniJuego\MiniJuego\VegaJuego\bin\Debug\net8.0-windows\VegaJuego.exe
 C:\Users\ÁlvaroM\Desktop\MiniJuego\MiniJuego\VegaJuego\bin\Debug\net8.0-windows\VegaJuego.deps.json
 C:\Users\ÁlvaroM\Desktop\MiniJuego\MiniJuego\VegaJuego\bin\Debug\net8.0-windows\VegaJuego.runtimeconfig.json
@@ -10,6 +28,7 @@ C:\Users\ÁlvaroM\Desktop\MiniJuego\MiniJuego\VegaJuego\obj\Debug\net8.0-windows
 C:\Users\ÁlvaroM\Desktop\MiniJuego\MiniJuego\VegaJuego\obj\Debug\net8.0-windows\VegaJuego.AssemblyInfoInputs.cache
 C:\Users\ÁlvaroM\Desktop\MiniJuego\MiniJuego\VegaJuego\obj\Debug\net8.0-windows\VegaJuego.AssemblyInfo.cs
 C:\Users\ÁlvaroM\Desktop\MiniJuego\MiniJuego\VegaJuego\obj\Debug\net8.0-windows\VegaJuego.csproj.CoreCompileInputs.cache
+C:\Users\ÁlvaroM\Desktop\MiniJuego\MiniJuego\VegaJuego\obj\Debug\net8.0-windows\VegaJuego.sourcelink.json
 C:\Users\ÁlvaroM\Desktop\MiniJuego\MiniJuego\VegaJuego\obj\Debug\net8.0-windows\VegaJuego.dll
 C:\Users\ÁlvaroM\Desktop\MiniJuego\MiniJuego\VegaJuego\obj\Debug\net8.0-windows\refint\VegaJuego.dll
 C:\Users\ÁlvaroM\Desktop\MiniJuego\MiniJuego\VegaJuego\obj\Debug\net8.0-windows\VegaJuego.pdb

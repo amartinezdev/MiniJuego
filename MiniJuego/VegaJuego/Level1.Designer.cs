@@ -39,10 +39,11 @@
             ClientSize = new Size(806, 467);
             DoubleBuffered = true;
             Icon = (Icon)resources.GetObject("$this.Icon");
+            MinimizeBox = false;
             Name = "Level1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "VegaZelda";
-            Load += Form1_Load;
+            KeyPress += Level1_KeyPress;
             ResumeLayout(false);
         }
 

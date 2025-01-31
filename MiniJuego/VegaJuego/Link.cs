@@ -29,7 +29,7 @@ namespace VegaJuego
         }
         public int Salud
         {
-            get { return arma; }
+            get { return salud; }
             set { salud = value; }
         }
         public void mover(KeyPressEventArgs e)

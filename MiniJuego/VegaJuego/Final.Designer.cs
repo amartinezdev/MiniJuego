@@ -42,6 +42,7 @@
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Final";
             FormClosed += Final_FormClosed;
+            Load += Final_Load;
             ResumeLayout(false);
         }
 

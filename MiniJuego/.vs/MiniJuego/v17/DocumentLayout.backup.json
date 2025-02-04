@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45C283BC-B904-4915-90F3-6BC339A0C74C}|VegaJuego\\VegaJuego.csproj|d:\\documentos\\alvarowkz\\localhost\\github\\minijuego\\minijuego\\vegajuego\\level1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C283BC-B904-4915-90F3-6BC339A0C74C}|VegaJuego\\VegaJuego.csproj|solutionrelative:vegajuego\\level1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45C283BC-B904-4915-90F3-6BC339A0C74C}|VegaJuego\\VegaJuego.csproj|d:\\documentos\\alvarowkz\\localhost\\github\\minijuego\\minijuego\\vegajuego\\pantallainicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C283BC-B904-4915-90F3-6BC339A0C74C}|VegaJuego\\VegaJuego.csproj|solutionrelative:vegajuego\\pantallainicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45C283BC-B904-4915-90F3-6BC339A0C74C}|VegaJuego\\VegaJuego.csproj|d:\\documentos\\alvarowkz\\localhost\\github\\minijuego\\minijuego\\vegajuego\\level1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{45C283BC-B904-4915-90F3-6BC339A0C74C}|VegaJuego\\VegaJuego.csproj|D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\vegajuego\\pantallainicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45C283BC-B904-4915-90F3-6BC339A0C74C}|VegaJuego\\VegaJuego.csproj|solutionrelative:vegajuego\\pantallainicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C283BC-B904-4915-90F3-6BC339A0C74C}|VegaJuego\\VegaJuego.csproj|D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\vegajuego\\level1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{45C283BC-B904-4915-90F3-6BC339A0C74C}|VegaJuego\\VegaJuego.csproj|solutionrelative:vegajuego\\level1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45C283BC-B904-4915-90F3-6BC339A0C74C}|VegaJuego\\VegaJuego.csproj|d:\\documentos\\alvarowkz\\localhost\\github\\minijuego\\minijuego\\vegajuego\\final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{45C283BC-B904-4915-90F3-6BC339A0C74C}|VegaJuego\\VegaJuego.csproj|solutionrelative:vegajuego\\final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{45C283BC-B904-4915-90F3-6BC339A0C74C}|VegaJuego\\VegaJuego.csproj|d:\\documentos\\alvarowkz\\localhost\\github\\minijuego\\minijuego\\vegajuego\\vegajuego.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{45C283BC-B904-4915-90F3-6BC339A0C74C}|VegaJuego\\VegaJuego.csproj|solutionrelative:vegajuego\\vegajuego.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45C283BC-B904-4915-90F3-6BC339A0C74C}|VegaJuego\\VegaJuego.csproj|d:\\documentos\\alvarowkz\\localhost\\github\\minijuego\\minijuego\\vegajuego\\final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C283BC-B904-4915-90F3-6BC339A0C74C}|VegaJuego\\VegaJuego.csproj|solutionrelative:vegajuego\\final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45C283BC-B904-4915-90F3-6BC339A0C74C}|VegaJuego\\VegaJuego.csproj|d:\\documentos\\alvarowkz\\localhost\\github\\minijuego\\minijuego\\vegajuego\\link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C283BC-B904-4915-90F3-6BC339A0C74C}|VegaJuego\\VegaJuego.csproj|solutionrelative:vegajuego\\link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45C283BC-B904-4915-90F3-6BC339A0C74C}|VegaJuego\\VegaJuego.csproj|d:\\documentos\\alvarowkz\\localhost\\github\\minijuego\\minijuego\\vegajuego\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C283BC-B904-4915-90F3-6BC339A0C74C}|VegaJuego\\VegaJuego.csproj|solutionrelative:vegajuego\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45C283BC-B904-4915-90F3-6BC339A0C74C}|VegaJuego\\VegaJuego.csproj|d:\\documentos\\alvarowkz\\localhost\\github\\minijuego\\minijuego\\vegajuego\\pantallainicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C283BC-B904-4915-90F3-6BC339A0C74C}|VegaJuego\\VegaJuego.csproj|solutionrelative:vegajuego\\pantallainicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,66 +37,78 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Final.cs",
-              "DocumentMoniker": "D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\VegaJuego\\Final.cs",
-              "RelativeDocumentMoniker": "VegaJuego\\Final.cs",
-              "ToolTip": "D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\VegaJuego\\Final.cs",
-              "RelativeToolTip": "VegaJuego\\Final.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T15:33:22.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Final.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\VegaJuego\\Final.cs",
-              "RelativeDocumentMoniker": "VegaJuego\\Final.cs",
-              "ToolTip": "D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\VegaJuego\\Final.cs [Dise\u00F1o]",
-              "RelativeToolTip": "VegaJuego\\Final.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T15:33:00.301Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Level1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\VegaJuego\\Level1.cs",
-              "RelativeDocumentMoniker": "VegaJuego\\Level1.cs",
-              "ToolTip": "D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\VegaJuego\\Level1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "VegaJuego\\Level1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:58:03.784Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Level1.cs",
-              "DocumentMoniker": "D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\VegaJuego\\Level1.cs",
-              "RelativeDocumentMoniker": "VegaJuego\\Level1.cs",
-              "ToolTip": "D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\VegaJuego\\Level1.cs",
-              "RelativeToolTip": "VegaJuego\\Level1.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAACAAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T11:20:19.172Z",
-              "EditorCaption": ""
+              "Title": "VegaJuego",
+              "DocumentMoniker": "D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\VegaJuego\\VegaJuego.csproj",
+              "RelativeDocumentMoniker": "VegaJuego\\VegaJuego.csproj",
+              "ToolTip": "D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\VegaJuego\\VegaJuego.csproj",
+              "RelativeToolTip": "VegaJuego\\VegaJuego.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T17:12:44.246Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Personaje.cs",
-              "DocumentMoniker": "D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\VegaJuego\\Personaje.cs",
-              "RelativeDocumentMoniker": "VegaJuego\\Personaje.cs",
-              "ToolTip": "D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\VegaJuego\\Personaje.cs",
-              "RelativeToolTip": "VegaJuego\\Personaje.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Title": "Link.cs",
+              "DocumentMoniker": "D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\VegaJuego\\Link.cs",
+              "RelativeDocumentMoniker": "VegaJuego\\Link.cs",
+              "ToolTip": "D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\VegaJuego\\Link.cs",
+              "RelativeToolTip": "VegaJuego\\Link.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T12:18:18.688Z"
+              "WhenOpened": "2025-02-04T17:12:35.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PantallaInicio.cs",
+              "DocumentMoniker": "D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\VegaJuego\\PantallaInicio.cs",
+              "RelativeDocumentMoniker": "VegaJuego\\PantallaInicio.cs",
+              "ToolTip": "D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\VegaJuego\\PantallaInicio.cs",
+              "RelativeToolTip": "VegaJuego\\PantallaInicio.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAASwCoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:11:30.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PantallaInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\VegaJuego\\PantallaInicio.cs",
+              "RelativeDocumentMoniker": "VegaJuego\\PantallaInicio.cs",
+              "ToolTip": "D:\\MiniJuego\\VegaJuego\\PantallaInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\MiniJuego\\VegaJuego\\PantallaInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:11:27.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PantallaInicio.Designer.cs",
+              "DocumentMoniker": "D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\VegaJuego\\PantallaInicio.Designer.cs",
+              "RelativeDocumentMoniker": "VegaJuego\\PantallaInicio.Designer.cs",
+              "ToolTip": "D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\VegaJuego\\PantallaInicio.Designer.cs",
+              "RelativeToolTip": "VegaJuego\\PantallaInicio.Designer.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAEwGUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:10:34.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Level1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Documentos\\alvarowkz\\localhost\\GitHub\\MiniJuego\\MiniJuego\\VegaJuego\\Level1.cs",
+              "RelativeDocumentMoniker": "VegaJuego\\Level1.cs",
+              "ToolTip": "D:\\MiniJuego\\VegaJuego\\Level1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\MiniJuego\\VegaJuego\\Level1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:10:29.166Z"
             }
           ]
         }

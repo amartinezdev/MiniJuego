@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VegaJuego")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db99229114f247e935f6b51b2b499d79258eab99")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbf05677836295d9a16e3a0d5ea0fea895e390b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("VegaJuego")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VegaJuego")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

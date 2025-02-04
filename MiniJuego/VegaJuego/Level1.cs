@@ -1,11 +1,10 @@
-using System.Media;
-
 namespace VegaJuego
 {
     public partial class Level1 : Form
     {
         Link Player;
         Broncas Enemigo1;
+
         public Level1()
         {
             InitializeComponent();
@@ -34,7 +33,7 @@ namespace VegaJuego
             {
                 Player.Salud = Player.Salud - 1;
             }
-           
+
             Enemigo1.mover();
 
             if (Player.Salud <= 0)
@@ -79,6 +78,16 @@ namespace VegaJuego
         }
 
         private void pictureBox3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Level1_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void Level1_Load(object sender, EventArgs e)
         {
 
         }
